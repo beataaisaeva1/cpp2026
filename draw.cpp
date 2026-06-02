@@ -20,3 +20,4 @@ void drawField(sf::RenderWindow& window, int selectedRow, int selectedCol) {
         }
     }
 }
+
