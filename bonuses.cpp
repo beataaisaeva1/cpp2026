@@ -86,3 +86,4 @@ void tryCreateBonus(int r, int c, int originalColor) {
         bonusBomb(target.first, target.second);
     }
 }
+
