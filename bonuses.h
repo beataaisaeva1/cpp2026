@@ -9,3 +9,4 @@ void bonusRepaint(int r, int c, int originalColor);
 void bonusBomb(int r, int c);
 
 void tryCreateBonus(int r, int c, int originalColor);
+
